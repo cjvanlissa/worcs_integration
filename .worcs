@@ -1,0 +1,6 @@
+worcs_version: 0.1.11.4
+creator: vanlissa
+entry_point: manuscript/manuscript.Rmd
+endpoints: manuscript/manuscript.md
+checksums:
+  manuscript/manuscript.md: bb559808563d7cc3cc5c864cbc9dd829
